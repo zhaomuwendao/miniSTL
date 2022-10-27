@@ -3,4 +3,4 @@ project(miniSTL)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(miniSTL miniSTL/main.cpp miniSTL/Vector.h miniSTL/Vector.cpp)
+add_executable(miniSTL miniSTL/main.cpp miniSTL/Vector.h)
